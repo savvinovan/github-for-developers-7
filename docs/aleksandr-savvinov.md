@@ -4,3 +4,4 @@
 * My favourite food is rice
 * My hobby is photography
 * My farourite color is green
+* My fav color is green

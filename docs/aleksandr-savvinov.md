@@ -5,3 +5,4 @@
 * My hobby is photography
 * My farourite color is green
 * My fav color is green
+* My favourite programming language is javascript
